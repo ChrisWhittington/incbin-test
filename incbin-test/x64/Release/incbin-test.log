@@ -1,0 +1,11 @@
+﻿lld-link : error : undefined symbol: gbookbinSize
+  >>> referenced by C:\Users\chris\source\repos\incbin-test\incbin-test\incbin.cpp:9
+  >>>               x64\Release\incbin.obj:(main)
+  
+lld-link : error : undefined symbol: gbookbinData
+  >>> referenced by C:\Users\chris\source\repos\incbin-test\incbin-test\incbin.cpp:10
+  >>>               x64\Release\incbin.obj:(main)
+  
+lld-link : error : undefined symbol: gbookbinEnd
+  >>> referenced by C:\Users\chris\source\repos\incbin-test\incbin-test\incbin.cpp:11
+  >>>               x64\Release\incbin.obj:(main)
